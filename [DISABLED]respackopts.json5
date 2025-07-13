@@ -1,0 +1,55 @@
+{
+  'id': 'colourfulcontainers',
+  'version': 13,
+  'capabilities': [
+    'FileFilter', 'DirFilter', 'DirFilterAdditive'
+  ],
+  'conf': {
+    'guicategory': {
+        storage: ["empty1"],
+        'chest': true,
+        'barrel': true,
+        'enderchest': true,
+        'shulkerbox': true,
+
+        cookingandsmelting: ["empty1"],
+        'furnace': true,
+        'blastfurnace': true,
+        'smoker': true,
+
+        crafting: ["empty1"],
+        'craftingtable': true,
+        'crafter': true,
+        'stonecutter': true,
+
+        redstone: ["empty1"],
+        'hopper': true,
+        'dispenser': true,
+        'dropper': true,
+        
+        enchantinganddisenchanting: ["empty1"],
+        'enchantingtable': true,
+        'grindstone': true,
+        'anvil': true,
+
+        other: ["empty1",],
+        'beacon': true,
+        'brewingstand': true,
+        'cartographytable': true,
+        'loom': true,
+        'smithingtable': true
+      
+    },
+
+    'otherguicategory': {
+      survivalinventory: ["empty1"],
+        inventorytype: ["paper", "slot", "off"],
+      recipebook: ["empty1"],
+        recipebooktype: ["green", "brown", "off"]
+    },
+
+    'textcategory': {
+        'showtext': true
+    }
+  }
+}

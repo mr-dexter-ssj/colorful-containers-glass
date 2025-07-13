@@ -1,0 +1,84 @@
+{
+    "merchant.trades": "§f\uE995\uE995\uE995\uEe99",
+
+    "comment.mrdexter": "ResPackOpts transtations:",
+
+    "rpo.colourfulcontainers": "Some other name",
+    "rpo.colourfulcontainers.title": "Colourful Containers",
+    "rpo.colourfulcontainers.someTexture": "Some Texture",
+
+    "rpo.colourfulcontainers.textcategory.showtext": "Hide GUI Text's",
+    "rpo.colourfulcontainers.textcategory.showtext.tooltip": "English (US) only",
+
+    "rpo.colourfulcontainers.textcategory": "Text",
+    
+    "rpo.colourfulcontainers.otherguicategory": "Other GUI's",
+
+    "rpo.colourfulcontainers.otherguicategory.survivalinventory": "§f§lSurvival Inventory",
+    "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty1": "  ",
+    "rpo.colourfulcontainers.otherguicategory.survivalinventory.empty2": "  ",
+
+    "rpo.colourfulcontainers.otherguicategory.inventoryactive": "use Inventory texture",
+    "rpo.colourfulcontainers.otherguicategory.inventorytype": "  ⤷ Inventory version",
+    "rpo.colourfulcontainers.otherguicategory.inventorytype.paper": "Paper",
+    "rpo.colourfulcontainers.otherguicategory.inventorytype.slot": "Slot",
+    "rpo.colourfulcontainers.otherguicategory.inventorytype.off": "§cDefault",
+
+    "rpo.colourfulcontainers.otherguicategory.recipebook": "§f§lRecipe Book",
+    "rpo.colourfulcontainers.otherguicategory.recipebook.empty1": "  ",
+    "rpo.colourfulcontainers.otherguicategory.recipebook.empty2": "  ",
+    "rpo.colourfulcontainers.otherguicategory.recipebooktype": "  ⤷ Recipe Book version",
+    "rpo.colourfulcontainers.otherguicategory.recipebooktype.green": "Green",
+    "rpo.colourfulcontainers.otherguicategory.recipebooktype.brown": "Brown",
+    "rpo.colourfulcontainers.otherguicategory.recipebooktype.off": "§cDefault",
+
+    "rpo.colourfulcontainers.guicategory": "Block GUI's",
+
+    "rpo.colourfulcontainers.guicategory.storage": "§f§lStorage",
+    "rpo.colourfulcontainers.guicategory.storage.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.storage.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.chest": "  ⤷ Chest",
+    "rpo.colourfulcontainers.guicategory.barrel": "  ⤷ Barrel",
+    "rpo.colourfulcontainers.guicategory.enderchest": "  ⤷ Ender chest",
+    "rpo.colourfulcontainers.guicategory.shulkerbox": "  ⤷ Shulkerbox",
+
+
+    "rpo.colourfulcontainers.guicategory.cookingandsmelting": "§f§lCooking and Smelting",
+    "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.cookingandsmelting.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.furnace": "  ⤷ Furnace",
+    "rpo.colourfulcontainers.guicategory.blastfurnace": "  ⤷ Blast furnace",
+    "rpo.colourfulcontainers.guicategory.smoker": "  ⤷ Smoker",
+
+
+    "rpo.colourfulcontainers.guicategory.crafting": "§f§lCrafting",
+    "rpo.colourfulcontainers.guicategory.crafting.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.crafting.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.craftingtable": "  ⤷ Crafting Table",
+    "rpo.colourfulcontainers.guicategory.crafter": "  ⤷ Crafter",
+    "rpo.colourfulcontainers.guicategory.stonecutter": "  ⤷ Stonecutter",
+
+
+    "rpo.colourfulcontainers.guicategory.redstone": "§f§lRedstone",
+    "rpo.colourfulcontainers.guicategory.redstone.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.redstone.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.hopper": "  ⤷ Hopper",
+    "rpo.colourfulcontainers.guicategory.dispenser": "  ⤷ Dispenser",
+    "rpo.colourfulcontainers.guicategory.dropper": "  ⤷ Dropper",
+
+    "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting": "§f§lEnchanting and Disenchanting",
+    "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.enchantinganddisenchanting.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.enchantingtable": "  ⤷ Enchanting Table",
+    "rpo.colourfulcontainers.guicategory.grindstone": "  ⤷ Grindstone",
+    "rpo.colourfulcontainers.guicategory.anvil": "  ⤷ Anvil",
+
+    "rpo.colourfulcontainers.guicategory.other": "§f§lOther",
+    "rpo.colourfulcontainers.guicategory.other.empty1": "  ",
+    "rpo.colourfulcontainers.guicategory.other.empty2": "  ",
+    "rpo.colourfulcontainers.guicategory.beacon": "  ⤷ Beacon",
+    "rpo.colourfulcontainers.guicategory.brewingstand": "  ⤷ Brewing stand",
+    "rpo.colourfulcontainers.guicategory.cartographytable": "  ⤷ Cartography Table",
+    "rpo.colourfulcontainers.guicategory.loom": "  ⤷ Loom",
+    "rpo.colourfulcontainers.guicategory.smithingtable": "  ⤷ Smithing Table"
+  }

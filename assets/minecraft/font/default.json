@@ -1,0 +1,17 @@
+{
+    "providers": [
+    
+    {
+        "type": "space",
+        "advances": {
+            "\uE995": -1
+        }
+    },
+    { 
+        "type": "bitmap",
+        "file": "minecraft:gui/container/villagers/trades.png",
+        "height": 166, "ascent": 13,
+        "chars": ["\uEe99"]
+    }
+    ]
+}
