@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 42,
+    "pack_format": 88,
     "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 99
+      "min_format": 85,
+      "max_format": 150
     },
     "description": "\u00a74\u00a7l!\u00a7fUse Optigui\u00a74\u00a7l!\u00a7r 1.20+\n\u00a7f\u00a7lby \u00a74\u00a7lMr Dexter"
   }
